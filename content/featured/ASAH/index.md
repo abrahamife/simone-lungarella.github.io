@@ -3,7 +3,7 @@ date: '1'
 title: 'A Story About Humans'
 cover: './demo.png'
 github: ''
-external: '/'
+external: ''
 tech:
   - Unreal Engine 4
   - Unreal Blueprints
