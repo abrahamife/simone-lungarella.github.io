@@ -1,5 +1,5 @@
-
-<h1> Forked from </h1>
+<p>Repository of personal GitHub page</p>
+<h3> Forked from </h3>
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
