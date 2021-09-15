@@ -1,7 +1,6 @@
 ---
 date: '2020-03-07'
 title: 'Red Evo'
-cover: './evo.jpg'
 github: ''
 external: ''
 tech:
