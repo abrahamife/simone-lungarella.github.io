@@ -5,7 +5,7 @@ module.exports = {
     title: 'Simone Lungarella',
     description:
       'Simone is a software engineer who specializes in building exceptional digital experiences.',
-    siteUrl: 'simone.com', // No trailing slash allowed!
+    siteUrl: 'https://simone.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Surveiior',
   },
