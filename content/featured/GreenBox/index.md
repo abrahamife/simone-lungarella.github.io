@@ -14,4 +14,4 @@ tech:
   - Arduino
 ---
 
-An arduino project that let you monitorate vital parameters of a plant and let you execute basic activities that helps the plant to grow.
+An Android application that make possible to handle common activities to let a plant grow in-door pushing commands to the Arduino board. The micro controller let you activate the irrigation system and provide data about vital parameters of the plant.
