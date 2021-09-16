@@ -58,17 +58,18 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Hello, world! I'm</h1>;
   const two = <h2 className="big-heading">Simone Lungarella.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">a software engineer.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building web applications. Currently, I’m focused on
-        improving my skill-set and aquiring new skills.
+        I’m specializing in building videogames, from design to deploy. Currently actively working
+        on a personal project with Unreal Engine 4 and its visual scripting language.
       </p>
     </>
   );
+
   const five = (
     <a className="email-link" href="https://github.com/Surveiior" target="_blank" rel="noreferrer">
       Check out my repos!
