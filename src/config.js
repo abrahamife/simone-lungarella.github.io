@@ -7,12 +7,8 @@ module.exports = {
       url: 'https://github.com/surveiior',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/simonelungarella/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/Surveiior',
+      name: 'Stack',
+      url: 'https://stackoverflow.com/users/10722088/simone-lungarella',
     },
     {
       name: 'Linkedin',
@@ -23,8 +19,12 @@ module.exports = {
       url: 'https://codepen.io/surveiior',
     },
     {
-      name: 'Stack',
-      url: 'https://stackoverflow.com/users/10722088/simone-lungarella',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/simonelungarella/',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/Surveiior',
     },
   ],
 
