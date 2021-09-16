@@ -18,6 +18,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/simone-lungarella/',
     },
+    {
+      name: 'Stack',
+      url: 'https://stackoverflow.com/users/10722088/simone-lungarella',
+    },
   ],
 
   navLinks: [
