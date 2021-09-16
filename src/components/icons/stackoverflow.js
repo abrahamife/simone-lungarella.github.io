@@ -4,10 +4,12 @@ const IconStack = () => (
   <svg
     version="1.0"
     xmlns="http://www.w3.org/2000/svg"
+    role="img"
     width="128.000000pt"
     height="128.000000pt"
     viewBox="0 0 128.000000 128.000000"
-    preserveAspectRatio="xMidYMid meet">
+    preserveAspectRatio="xMidYMid meet"
+    filter="brightness(0) invert(1)">
     <g
       transform="translate(0.000000,128.000000) scale(0.100000,-0.100000)"
       fill="#000000"
