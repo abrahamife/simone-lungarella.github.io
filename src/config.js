@@ -19,6 +19,10 @@ module.exports = {
       url: 'https://www.linkedin.com/in/simone-lungarella/',
     },
     {
+      name: 'Codepen',
+      url: 'https://codepen.io/surveiior',
+    },
+    {
       name: 'Stack',
       url: 'https://stackoverflow.com/users/10722088/simone-lungarella',
     },

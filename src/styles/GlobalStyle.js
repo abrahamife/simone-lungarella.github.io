@@ -228,6 +228,10 @@ const GlobalStyle = createGlobalStyle`
     &.feather {
       fill: none;
     }
+
+    &.cols {
+      color="#a8b2d1";
+    }
   }
 
   a {
