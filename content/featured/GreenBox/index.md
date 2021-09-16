@@ -5,6 +5,7 @@ cover: './demo.png'
 github: 'https://github.com/Surveiior/GreenBox.git'
 external: ''
 cta: ''
+download: './Documents/GreenBox.pdf'
 tech:
   - Python
   - Zerynth

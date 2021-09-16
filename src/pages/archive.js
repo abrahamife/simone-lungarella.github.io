@@ -179,6 +179,7 @@ const ArchivePage = ({ location, data }) => {
                     title,
                     tech,
                     company,
+                    download,
                   } = node.frontmatter;
                   return (
                     <tr key={i} ref={el => (revealProjects.current[i] = el)}>
@@ -206,6 +207,15 @@ const ArchivePage = ({ location, data }) => {
                           {external && (
                             <a href={external} aria-label="External Link">
                               <Icon name="External" />
+                            </a>
+                          )}
+                          {download && (
+                            <a
+                              href={download}
+                              aria-label="Download"
+                              target="_blank"
+                              rel="noopener noreferrer">
+                              <Icon name="Download" />
                             </a>
                           )}
                           {github && (
@@ -259,6 +269,7 @@ export const pageQuery = graphql`
             ios
             android
             company
+            download
           }
           html
         }

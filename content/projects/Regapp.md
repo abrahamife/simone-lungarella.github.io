@@ -2,6 +2,7 @@
 date: '2020-07-01'
 title: 'Regapp'
 github: 'https://github.com/Surveiior/Regapp'
+download: '../Documents/thesis.pdf'
 tech:
   - Java
   - Eclipse

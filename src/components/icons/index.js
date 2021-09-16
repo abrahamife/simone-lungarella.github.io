@@ -14,3 +14,4 @@ export { default as IconPlayStore } from './playstore';
 export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
 export { default as IconStack } from './stackoverflow';
+export { default as IconDownload } from './download';
