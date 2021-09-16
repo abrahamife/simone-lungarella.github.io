@@ -15,3 +15,4 @@ export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
 export { default as IconStack } from './stackoverflow';
 export { default as IconDownload } from './download';
+export { default as IconBack } from './back';
