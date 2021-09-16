@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'SimoneLungarella',
-        short_name: 'SimoneLungarella',
+        short_name: 'SL',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
