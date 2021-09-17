@@ -7,11 +7,10 @@ external: ''
 download: ''
 tech:
   - Eclipse
-  - Java8
+  - Java 8
   - SQL
-  - Javascript
-  - HTML
-  - CSS
+  - Spring
+  - PrimeFaces
 ---
 
 A web application used by Italian government to handle all the documentation.

@@ -241,7 +241,7 @@ const ArchivePage = ({ location, data }) => {
             </tbody>
           </table>
         </StyledTableContainer>
-        <a href="/" aria-label="External Link" title="Go back">
+        <a href="/" aria-label="External Link">
           <Icon name="Back" />
         </a>
       </main>

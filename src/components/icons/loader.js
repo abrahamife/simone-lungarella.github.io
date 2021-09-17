@@ -7,7 +7,7 @@ const IconLoader = () => (
       <g
         id="B"
         transform="translate(36, 33)"
-        fill="#64FFDA"
+        fill="#efc050"
         fontFamily="Calibre-Medium, Calibre"
         fontSize="50"
         fontWeight="400"

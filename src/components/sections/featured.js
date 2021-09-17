@@ -117,7 +117,7 @@ const StyledProject = styled.li`
 
   .project-overline {
     margin: 10px 0;
-    color: var(--green);
+    color: var(--yellow);
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
     font-weight: 400;
@@ -258,7 +258,7 @@ const StyledProject = styled.li`
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--green);
+      background-color: var(--yellow-tint);
       border-radius: var(--border-radius);
       vertical-align: middle;
 
@@ -393,8 +393,7 @@ const Featured = () => {
                           href={download}
                           aria-label="Download"
                           target="_blank"
-                          rel="noopener noreferrer"
-                          title="Overview">
+                          rel="noopener noreferrer">
                           <Icon name="Download" />
                         </a>
                       )}
