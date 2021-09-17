@@ -12,6 +12,8 @@ const StyledAboutSection = styled.section`
     display: grid;
     grid-template-columns: 3fr 2fr;
     grid-gap: 50px;
+    text-align: justify;
+    text-justify: inter-word;
 
     @media (max-width: 768px) {
       display: block;
