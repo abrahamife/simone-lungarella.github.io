@@ -14,4 +14,5 @@ company: 'IBM Italy'
 showInProjects: false
 ---
 
-A web application used by Italian government to handle all the documentation.
+A complex web application used by Italian government to handle all the documentation relative to legislative process and balance sheet.
+It features multiple background processes managed by Jobs, and exposes multiple SOAP services called by external applications.
