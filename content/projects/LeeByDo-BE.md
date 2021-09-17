@@ -7,10 +7,8 @@ download: ''
 github: 'https://github.com/Surveiior/LeeBydo-BE'
 tech:
   - Java 11
-  - Spring Boot
-  - Spring JPA
+  - Spring
   - MySQL
-  - Lombok
   - VS Code
 company: ''
 showInProjects: false

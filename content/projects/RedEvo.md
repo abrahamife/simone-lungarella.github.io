@@ -6,11 +6,10 @@ external: ''
 download: ''
 tech:
   - Eclipse
-  - Java8
+  - Java 8
   - SQL
-  - Javascript
-  - HTML
-  - CSS
+  - Spring
+  - PrimeFaces
 company: 'IBM Italy'
 showInProjects: false
 ---
