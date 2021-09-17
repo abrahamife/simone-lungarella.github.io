@@ -72,7 +72,7 @@ const Hero = () => {
 
   const five = (
     <a className="email-link" href="https://github.com/Surveiior" target="_blank" rel="noreferrer">
-      Check out my repos!
+      Check out GitHub!
     </a>
   );
 
