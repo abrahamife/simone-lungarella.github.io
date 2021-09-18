@@ -14,6 +14,7 @@ const variables = css`
     --white: #e6f1ff;
     --yellow: #efc050;
     --yellow-tint: #f6dda2;
+    --light-blue: #44576f;
     --pink: #f57dff;
     --blue: #57cbff;
 

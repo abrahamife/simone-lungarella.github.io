@@ -8,7 +8,7 @@ tech:
   - Java 8
   - Eclipse
 company: 'Elis'
-showInProjects: false
+showInProjects: true
 ---
 
 A Java implementation of commons design patterns.

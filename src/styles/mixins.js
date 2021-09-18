@@ -13,12 +13,15 @@ const button = css`
   transition: var(--transition);
   padding: 1.25rem 1.75rem;
 
-  &:hover,
-  &:focus,
-  &:active {
-    background-color: var(--yellow-tint);
+  &:hover {
+    background-color: var(--light-blue);
     outline: none;
   }
+  &:focus,
+  &:active {
+    outline: none;
+  }
+
   &:after {
     display: none !important;
   }
@@ -99,12 +102,15 @@ const mixins = {
     text-decoration: none;
     cursor: pointer;
     transition: var(--transition);
-    &:hover,
-    &:focus,
-    &:active {
-      background-color: var(--yellow-tint);
+    &:hover {
+      background-color: var(--light-blue);
       outline: none;
     }
+    &:focus,
+    &:active {
+      outline: none;
+    }
+
     &:after {
       display: none !important;
     }
@@ -122,12 +128,15 @@ const mixins = {
     text-decoration: none;
     cursor: pointer;
     transition: var(--transition);
-    &:hover,
-    &:focus,
-    &:active {
-      background-color: var(--yellow-tint);
+    &:hover {
+      background-color: var(--light-blue);
       outline: none;
     }
+    &:focus,
+    &:active {
+      outline: none;
+    }
+
     &:after {
       display: none !important;
     }
