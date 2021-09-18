@@ -3,9 +3,8 @@ date: '3'
 title: 'GreenBox'
 cover: './demo.png'
 github: 'https://github.com/Surveiior/GreenBox.git'
-external: ''
+external: './Documents/GreenBox.pdf'
 cta: ''
-download: './Documents/GreenBox.pdf'
 tech:
   - Python
   - Zerynth

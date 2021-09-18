@@ -3,7 +3,6 @@ date: '2020-09-01'
 title: 'A Story About Humans'
 ios: ''
 android: ''
-download: ''
 tech:
   - Unreal Engine 4
   - Unreal Blueprints

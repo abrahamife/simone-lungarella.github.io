@@ -62,12 +62,11 @@ const Hero = () => {
   const two = <h2 className="big-heading">Simone Lungarella</h2>;
   const three = <h3 className="big-heading">software engineer</h3>;
   const four = (
-    <>
-      <p>
-        I’m specializing in building videogames, from design to deploy. Currently actively working
-        on a personal project with Unreal Engine 4 and its visual scripting language.
-      </p>
-    </>
+    <p className="main-desc">
+      I’m specializing in building web applications, from design to development. I'm also interested
+      in game development and to grow this passion I'm currently actively working on a personal
+      project with Unreal Engine 4 and its visual scripting language.
+    </p>
   );
 
   const five = (

@@ -2,7 +2,7 @@
 date: '2018-12-06'
 title: 'GreenBox'
 github: 'https://github.com/Surveiior/GreenBox.git'
-download: '../Documents/GreenBox.pdf'
+external: '../Documents/GreenBox.pdf'
 tech:
   - Python
   - Zerynth

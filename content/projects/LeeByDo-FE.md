@@ -3,7 +3,6 @@ date: '2021-01-01'
 title: 'LeeByDo-UI'
 ios: ''
 android: ''
-download: ''
 github: 'https://github.com/Surveiior/LeeBydo-FE'
 tech:
   - Angular

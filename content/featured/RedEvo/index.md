@@ -4,7 +4,6 @@ title: 'Red Evo'
 cover: './evo.jpg'
 github: ''
 external: ''
-download: ''
 tech:
   - Eclipse
   - Java 8

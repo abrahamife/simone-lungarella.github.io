@@ -153,6 +153,11 @@ const GlobalStyle = createGlobalStyle`
     font-size: clamp(40px, 8vw, 80px);
   }
 
+  .main-desc {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
   .medium-heading {
     margin: 0;
     font-size: clamp(40px, 8vw, 60px);
