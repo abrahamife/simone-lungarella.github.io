@@ -14,4 +14,4 @@ showInProjects: true
 ---
 
 An Angular application that offer an interface to manage all people existing in an address book
-and gives the opportunity to add new people.
+and gives the opportunity to add new people or modify existing ones.
