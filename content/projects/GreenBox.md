@@ -1,7 +1,7 @@
 ---
 date: '2018-12-06'
 title: 'GreenBox'
-github: 'https://github.com/Surveiior/GreenBox.git'
+github: 'https://github.com/simone-lungarella/GreenBox.git'
 external: '../Documents/GreenBox.pdf'
 tech:
   - Python

@@ -2,7 +2,7 @@
 date: '3'
 title: 'GreenBox'
 cover: './demo.png'
-github: 'https://github.com/Surveiior/GreenBox.git'
+github: 'https://github.com/simone-lungarella/GreenBox.git'
 external: './Documents/GreenBox.pdf'
 cta: ''
 tech:

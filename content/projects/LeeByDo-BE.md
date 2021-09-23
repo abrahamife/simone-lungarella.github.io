@@ -3,7 +3,7 @@ date: '2021-01-01'
 title: 'LeeByDo-BE'
 ios: ''
 android: ''
-github: 'https://github.com/Surveiior/LeeBydo-BE'
+github: 'https://github.com/simone-lungarella/LeeBydo-BE'
 tech:
   - Java 11
   - Spring

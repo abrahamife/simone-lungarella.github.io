@@ -3,7 +3,7 @@ date: '2020-02-01'
 title: 'Design Patterns'
 ios: ''
 android: ''
-github: 'https://github.com/Surveiior/DesignPatterns'
+github: 'https://github.com/simone-lungarella/DesignPatterns'
 tech:
   - Java 8
   - Eclipse
