@@ -68,14 +68,14 @@ const Hero = () => {
       project with Unreal Engine 4 and its visual scripting language.
     </p>
   );
-
+  /*
   const five = (
     <a className="email-link" href="https://github.com/simone-lungarella" target="_blank" rel="noreferrer">
       Check out GitHub!
     </a>
-  );
+  );*/
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>

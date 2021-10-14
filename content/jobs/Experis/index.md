@@ -1,9 +1,9 @@
 ---
 date: '2020-03-07'
-title: 'Java Developer&Analyst'
-company: 'IBM Italy'
+title: 'Java Developer & Analyst'
+company: 'Experis'
 location: 'Rome, IT'
-range: 'March 2020 - Today'
+range: 'March 2020 - Dicember 2021'
 url: 'https://www.ibm.com/it-it'
 ---
 
