@@ -10,7 +10,7 @@ tech:
   - HTML
   - CSS
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 An Angular application that offer an interface to manage all people existing in an address book

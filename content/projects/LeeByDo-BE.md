@@ -10,7 +10,7 @@ tech:
   - MySQL
   - VS Code
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Spring application that handles all CRUD operations to manage an address book.
