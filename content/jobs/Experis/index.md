@@ -11,3 +11,4 @@ url: 'https://www.ibm.com/it-it'
 - Analyzed and developed back-end functionality and front-end interfaces.
 - Writed and executed test plans.
 - Contributed in documentation production and exposition of topics during the Knowledge Transfer.
+- Collaborated with a small team to improve the current implementation of the European green certificate for the Italian government.

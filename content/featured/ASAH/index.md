@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'A Story About Humans'
-cover: './demo.png'
+cover: './demo_2.png'
 github: ''
 external: ''
 download: ''
