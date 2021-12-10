@@ -4,7 +4,7 @@ title: 'Java Developer & Analyst'
 company: 'Experis'
 location: 'Rome, IT'
 range: 'March 2020 - Dicember 2021'
-url: 'https://www.ibm.com/it-it'
+url: 'https://www.experis.it/'
 ---
 
 - Developed different functionality mainly relative to documentation handling and modification.
