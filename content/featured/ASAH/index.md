@@ -7,7 +7,7 @@ external: ''
 download: ''
 tech:
   - Unreal Engine 4
-  - Unreal Blueprints
+  - Adobe Illustrator
   - Blender
   - Substance
 ---

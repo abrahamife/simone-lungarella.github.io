@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/simonelungarella/',
+      url: 'https://www.instagram.com/stampede_studios/',
     },
     {
       name: 'Twitter',

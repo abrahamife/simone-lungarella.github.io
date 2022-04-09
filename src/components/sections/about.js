@@ -128,7 +128,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java', 'MongoDB', 'Spring Boot', 'Spring JPA', 'Docker'];
+  const skills = [
+    'Java',
+    'Unreal Engine 4',
+    'Spring',
+    'Adobe Illustrator',
+    'Mongo',
+    'Adobe Photoshop',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -138,7 +145,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Simone, I’m 25 years old and I live in Rome. I’m very positive and
+              Hello! My name is Simone, I’m 26 years old and I live in Rome. I’m very positive and
               trying to be so in every moment of my life. I face any adversity with positivity and
               trying to learn something in every experience.
             </p>

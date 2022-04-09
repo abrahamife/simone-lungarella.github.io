@@ -5,8 +5,7 @@ cover: './evo.jpg'
 github: ''
 external: ''
 tech:
-  - Eclipse
-  - Java 8
+  - Java
   - SQL
   - Spring
   - PrimeFaces
