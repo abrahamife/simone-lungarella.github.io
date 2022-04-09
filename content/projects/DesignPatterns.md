@@ -5,10 +5,9 @@ ios: ''
 android: ''
 github: 'https://github.com/simone-lungarella/DesignPatterns'
 tech:
-  - Java 8
-  - Eclipse
+  - Java
 company: 'Elis'
-showInProjects: true
+showInProjects: false
 ---
 
 A Java implementation of commons design patterns. The repository provide a list of most common design patterns and their implementation.

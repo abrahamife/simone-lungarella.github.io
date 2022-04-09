@@ -7,4 +7,6 @@ range: 'Dicember 2021 - Today'
 url: 'https://www.ibm.com/employment/ciceurope/it-it'
 ---
 
-- Collaborating on Italian implementation of European green certificate continuing working on the same project working with the previous company.
+- Collaborated on Italian implementation of European green certificate.
+- Collaborated on the certificate revocation system of DGC for the Italian government.
+- Worked on multiple smaller projects following the digital green certificate project and inherent the stats acquiring and other small aspects.

@@ -13,7 +13,7 @@ tech:
   - Oracle
   - MySQL
 company: 'IBM Italy'
-showInProjects: true
+showInProjects: false
 ---
 
 A dockerized solution to verify Green Passes evaluating its revocation status. The app communicates with Italian Gateway to fetch millions

@@ -5,9 +5,8 @@ github: 'https://github.com/Surveiior/Regapp'
 external: '../Documents/thesis.pdf'
 tech:
   - Java
-  - Eclipse
-  - Primefaces
   - Spring
+  - Primefaces
   - SQL
 company: 'University'
 showInProjects: true

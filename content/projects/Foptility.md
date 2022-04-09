@@ -4,9 +4,9 @@ title: 'Foptility'
 github: 'https://github.com/simone-lungarella/Foptility'
 tech:
   - Java
-  - XSLT
   - Spring
   - Apache FOP
+  - XSLT
 company: ''
 showInProjects: true
 ---

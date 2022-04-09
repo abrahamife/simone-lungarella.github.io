@@ -5,11 +5,11 @@ ios: ''
 android: ''
 tech:
   - Unreal Engine 4
-  - Unreal Blueprints
+  - UE Visual Scripting
   - Blender
   - Substance
 company: ''
 showInProjects: false
 ---
 
-A first-person video game where a player has to navigate a lunar base solving puzzle all around to reach the communication center.
+A first-person video game where a player has to navigate a lunar base solving puzzle all around to reach the communication center and restabileze connection with the planet Earth.
