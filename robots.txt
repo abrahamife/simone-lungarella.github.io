@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://simone.com/sitemap/sitemap-index.xml
+Sitemap: https://simone.com/sitemap.xml
 Host: https://simone.com
