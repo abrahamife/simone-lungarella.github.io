@@ -176,6 +176,7 @@ const ArchivePage = ({ location, data }) => {
                     external,
                     ios,
                     android,
+                    instagram,
                     title,
                     tech,
                     company,
@@ -214,7 +215,8 @@ const ArchivePage = ({ location, data }) => {
                               href={download}
                               aria-label="Download"
                               target="_blank"
-                              rel="noopener noreferrer">
+                              rel="noopener noreferrer"
+                            >
                               <Icon name="Download" />
                             </a>
                           )}
@@ -231,6 +233,11 @@ const ArchivePage = ({ location, data }) => {
                           {android && (
                             <a href={android} aria-label="Google Play Store Link">
                               <Icon name="PlayStore" />
+                            </a>
+                          )}
+                          {instagram && (
+                            <a href={instagram} aria-label="Instagram Link">
+                              <Icon name="Instagram" />
                             </a>
                           )}
                         </div>
@@ -268,6 +275,7 @@ export const pageQuery = graphql`
             title
             tech
             github
+            instagram
             external
             ios
             android

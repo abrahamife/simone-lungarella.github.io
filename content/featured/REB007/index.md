@@ -2,7 +2,8 @@
 date: '1'
 title: 'REB-007'
 cover: './demo_3.jpeg'
-github: ''
+instagram: 'https://www.instagram.com/stampede_studios/'
+github: 'https://github.com/StampedeStudios'
 external: ''
 download: ''
 tech:
